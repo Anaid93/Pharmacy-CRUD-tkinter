@@ -1,6 +1,6 @@
 # Anaid Pharmacy
-Anaid Pharmacy is an easy desktop application created from a python library called tkinter, which allows us to create graphical desktop interfaces. The application will also be integrated with a SQLite database, which we can control with a program called DB Browser for SQLite.
-This application allows us to add, edit and delete products.
+Anaid Pharmacy is an easy desktop app created from a python library called tkinter, which allows us to create graphical desktop interfaces. The app will also be integrated with a SQLite database, which we can control with a program called DB Browser for SQLite.
+This app allows us to add, edit and delete products.
 
 ## Requirements
 
@@ -16,11 +16,11 @@ This application allows us to add, edit and delete products.
 
 ![Captura de pantalla 2023-02-19 122026](https://user-images.githubusercontent.com/123415126/220158757-11405ac5-9084-47ac-9b56-048d545eec8d.jpg)
 
-2. Then to open the application you have to open the terminal, set the folder path and type the name of the .py file: 
+2. Then to open the app you have to open the terminal, set the folder path and type the name of the .py file: 
 
    `> python medicine.py`
    
-3. The application has a form where you can add, edit or delete products.
+3. The app has a form where you can add, edit or delete products.
 
 ![Captura de pantalla 2023-02-19 122409](https://user-images.githubusercontent.com/123415126/220161075-368d8550-f78d-4426-9bef-bd9962512e43.jpg)
 
